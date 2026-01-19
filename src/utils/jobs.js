@@ -1,0 +1,42 @@
+const jobs = [
+  { id: 1, title: "General Labourer", type: "Manual", country: "Canada" },
+  { id: 2, title: "Warehouse Associate", type: "Manual", country: "Canada" },
+  { id: 3, title: "Construction Helper", type: "Manual", country: "Canada" },
+  { id: 4, title: "Cleaner / Janitor", type: "Manual", country: "Canada" },
+  { id: 5, title: "Farm Worker", type: "Manual", country: "Canada" },
+  { id: 6, title: "Kitchen Assistant", type: "Manual", country: "Canada" },
+  { id: 7, title: "Restaurant Server", type: "Manual", country: "Canada" },
+  { id: 8, title: "Housekeeper", type: "Manual", country: "Canada" },
+  { id: 9, title: "Security Guard", type: "Manual", country: "Canada" },
+  { id: 10, title: "Delivery Driver", type: "Manual", country: "Canada" },
+
+  { id: 11, title: "Carpenter", type: "Skilled", country: "Canada" },
+  { id: 12, title: "Electrician", type: "Skilled", country: "Canada" },
+  { id: 13, title: "Plumber", type: "Skilled", country: "Canada" },
+  { id: 14, title: "HVAC Technician", type: "Skilled", country: "Canada" },
+  { id: 15, title: "Automotive Technician", type: "Skilled", country: "Canada" },
+  { id: 16, title: "Welder", type: "Skilled", country: "Canada" },
+  { id: 17, title: "Heavy Equipment Operator", type: "Skilled", country: "Canada" },
+  { id: 18, title: "Truck Mechanic", type: "Skilled", country: "Canada" },
+  { id: 19, title: "IT Support Technician", type: "Skilled", country: "Canada" },
+  { id: 20, title: "Healthcare Assistant", type: "Skilled", country: "Canada" },
+
+  { id: 21, title: "Registered Nurse", type: "Professional", country: "Canada" },
+  { id: 22, title: "Software Developer", type: "Professional", country: "Canada" },
+  { id: 23, title: "Accountant", type: "Professional", country: "Canada" },
+  { id: 24, title: "Project Manager", type: "Professional", country: "Canada" },
+  { id: 25, title: "Business Analyst", type: "Professional", country: "Canada" },
+  { id: 26, title: "Marketing Manager", type: "Professional", country: "Canada" },
+  { id: 27, title: "HR Specialist", type: "Professional", country: "Canada" },
+  { id: 28, title: "Financial Analyst", type: "Professional", country: "Canada" },
+  { id: 29, title: "Civil Engineer", type: "Professional", country: "Canada" },
+  { id: 30, title: "Data Analyst", type: "Professional", country: "Canada" },
+
+  { id: 31, title: "Customer Service Rep", type: "Manual", country: "UK" },
+  { id: 32, title: "Retail Sales Assistant", type: "Manual", country: "UK" },
+  { id: 33, title: "Administrative Assistant", type: "Skilled", country: "UK" },
+  { id: 34, title: "Software Engineer", type: "Professional", country: "UK" },
+  { id: 35, title: "Business Development Manager", type: "Professional", country: "UK" },
+];
+
+export default jobs;

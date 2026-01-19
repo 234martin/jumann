@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ca-001",
+    "title": "Senior Full Stack Engineer",
+    "company": "MapleTech",
+    "location": "Toronto, ON",
+    "country": "Canada",
+    "type": "Full-time",
+    "salary": "CAD 110k\u2013140k",
+    "posted": "2 days ago",
+    "remote": "Hybrid",
+    "tags": [
+      "React",
+      "Node.js",
+      "AWS"
+    ],
+    "description": "Build scalable web platforms for enterprise clients. Lead architecture and mentor junior engineers.",
+    "responsibilities": [
+      "Design and implement microservices",
+      "Own frontend architecture with React",
+      "Improve CI/CD and observability"
+    ],
+    "requirements": [
+      "5+ years experience",
+      "Strong TypeScript skills",
+      "Cloud experience (AWS/GCP)"
+    ],
+    "benefits": [
+      "Health & dental",
+      "Stock options",
+      "Annual learning stipend"
+    ]
+  },
+  {
+    "id": "ca-002",
+    "title": "Product Designer",
+    "company": "Northern Studio",
+    "location": "Vancouver, BC",
+    "country": "Canada",
+    "type": "Full-time",
+    "salary": "CAD 85k\u2013105k",
+    "posted": "5 days ago",
+    "remote": "Remote",
+    "tags": [
+      "Figma",
+      "UX",
+      "Design Systems"
+    ],
+    "description": "Lead end-to-end product design for a consumer SaaS product. Collaborate with PM and engineering.",
+    "responsibilities": [
+      "User research & testing",
+      "Design system governance",
+      "Prototype high-fidelity flows"
+    ],
+    "requirements": [
+      "3+ years product design",
+      "Portfolio with SaaS work",
+      "Strong communication"
+    ],
+    "benefits": [
+      "Remote-first",
+      "Conference budget",
+      "Flexible hours"
+    ]
+  },
+  {
+    "id": "ca-003",
+    "title": "Data Engineer",
+    "company": "Aurora Analytics",
+    "location": "Montreal, QC",
+    "country": "Canada",
+    "type": "Full-time",
+    "salary": "CAD 95k\u2013125k",
+    "posted": "1 week ago",
+    "remote": "Hybrid",
+    "tags": [
+      "Python",
+      "BigQuery",
+      "ETL"
+    ],
+    "description": "Build data pipelines and warehouses to power analytics and ML products.",
+    "responsibilities": [
+      "Design ETL pipelines",
+      "Optimize data models",
+      "Work with stakeholders to define metrics"
+    ],
+    "requirements": [
+      "Python & SQL",
+      "Cloud data stack",
+      "Data modeling experience"
+    ],
+    "benefits": [
+      "Health benefits",
+      "Stock plan",
+      "Wellness stipend"
+    ]
+  },
+  {
+    "id": "uk-001",
+    "title": "Frontend Engineer (React)",
+    "company": "London Labs",
+    "location": "London",
+    "country": "UK",
+    "type": "Full-time",
+    "salary": "\u00a360k\u2013\u00a375k",
+    "posted": "3 days ago",
+    "remote": "Hybrid",
+    "tags": [
+      "React",
+      "TypeScript",
+      "Next.js"
+    ],
+    "description": "Develop customer-facing web applications for a fintech platform.",
+    "responsibilities": [
+      "Implement UI components",
+      "Work with design system",
+      "Improve performance"
+    ],
+    "requirements": [
+      "3+ years frontend",
+      "Strong React/TypeScript",
+      "Good testing discipline"
+    ],
+    "benefits": [
+      "Pension scheme",
+      "Private healthcare",
+      "Annual bonus"
+    ]
+  },
+  {
+    "id": "uk-002",
+    "title": "DevOps Engineer",
+    "company": "Bristol Cloud",
+    "location": "Bristol",
+    "country": "UK",
+    "type": "Full-time",
+    "salary": "\u00a370k\u2013\u00a390k",
+    "posted": "1 week ago",
+    "remote": "Hybrid",
+    "tags": [
+      "Kubernetes",
+      "Terraform",
+      "CI/CD"
+    ],
+    "description": "Build and maintain cloud infrastructure for a fast-growing startup.",
+    "responsibilities": [
+      "Manage Kubernetes clusters",
+      "Automate deployments",
+      "Improve security posture"
+    ],
+    "requirements": [
+      "Cloud experience",
+      "Infrastructure as code",
+      "Observability tools"
+    ],
+    "benefits": [
+      "Training budget",
+      "Stock options",
+      "Flexible working"
+    ]
+  }
+]
